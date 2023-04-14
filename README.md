@@ -7,7 +7,7 @@
 ### コマンド
 
 ```
-link_checker <input-file> <output-file> <number-of-columns>
+./bin/link_checker <input-file> <output-file> <number-of-columns>
 ```
 
 ### コマンド説明
@@ -18,7 +18,7 @@ link_checker <input-file> <output-file> <number-of-columns>
 ### 例：
   
  ```
-  link_checker links.csv links_checked.csv 2
+  ./bin/link_checker links.csv links_checked.csv 2
  ```
   
 ## CSVの形
